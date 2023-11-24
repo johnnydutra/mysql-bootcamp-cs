@@ -1,0 +1,6 @@
+-- SELECT book_id, author_fname, author_lname FROM books ORDER BY author_lname;
+-- SELECT book_id, author_fname, author_lname FROM books ORDER BY author_lname DESC;
+-- SELECT title, pages FROM books ORDER BY pages DESC;
+-- SELECT title, pages FROM books ORDER BY released_year;
+-- SELECT book_id, author_fname, author_lname, pages FROM books ORDER BY 4;
+-- SELECT author_lname, released_year, title FROM books ORDER BY author_lname, released_year;
